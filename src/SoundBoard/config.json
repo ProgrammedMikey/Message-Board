@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "SoundBoard"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-SoundBoard-5cf5c8ef-3dc4-46fc-81ee-dcb478e51537;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
